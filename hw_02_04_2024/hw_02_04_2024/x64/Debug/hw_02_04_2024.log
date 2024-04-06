@@ -1,0 +1,8 @@
+﻿  hw_02_04_2024.cpp
+C:\Projects in VS\hw_02_04_2024\hw_02_04_2024\hw_02_04_2024.cpp(105,27): warning C4584: BlackWidow: базовый класс "Person" уже является базовым классом для "Superhero"
+C:\Projects in VS\hw_02_04_2024\hw_02_04_2024\hw_02_04_2024.cpp(58,7): message : см. объявление "Person"
+C:\Projects in VS\hw_02_04_2024\hw_02_04_2024\hw_02_04_2024.cpp(88,7): message : см. объявление "Superhero"
+C:\Projects in VS\hw_02_04_2024\hw_02_04_2024\hw_02_04_2024.cpp(127,23): warning C4584: Falcon: базовый класс "Person" уже является базовым классом для "Superhero"
+C:\Projects in VS\hw_02_04_2024\hw_02_04_2024\hw_02_04_2024.cpp(58,7): message : см. объявление "Person"
+C:\Projects in VS\hw_02_04_2024\hw_02_04_2024\hw_02_04_2024.cpp(88,7): message : см. объявление "Superhero"
+  hw_02_04_2024.vcxproj -> C:\Projects in VS\hw_02_04_2024\x64\Debug\hw_02_04_2024.exe
